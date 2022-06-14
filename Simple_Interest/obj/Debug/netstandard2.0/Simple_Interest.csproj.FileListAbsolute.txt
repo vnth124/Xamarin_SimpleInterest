@@ -1,0 +1,16 @@
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\bin\Debug\netstandard2.0\Simple_Interest.deps.json
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\bin\Debug\netstandard2.0\Simple_Interest.dll
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\bin\Debug\netstandard2.0\ref\Simple_Interest.dll
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\bin\Debug\netstandard2.0\Simple_Interest.pdb
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.csproj.AssemblyReference.cache
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.xaml.g.cs
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.AssemblyInfoInputs.cache
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.AssemblyInfo.cs
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.csproj.CoreCompileInputs.cache
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.dll
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\ref\Simple_Interest.dll
+C:\Users\VINEETH\source\repos\Simple_Interest\Simple_Interest\Simple_Interest\obj\Debug\netstandard2.0\Simple_Interest.pdb

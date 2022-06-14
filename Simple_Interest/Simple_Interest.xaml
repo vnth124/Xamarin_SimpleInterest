@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Simple_Interest.Simple_Interest" BackgroundImageSource="bg1.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="SIMPLE INTEREST"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   BackgroundColor="#574515"
+                   FontSize="Title"/>
+            <Label Text="  Principle Amount" VerticalOptions="CenterAndExpand" />
+            <Entry x:Name="Principle_Amount" VerticalOptions="CenterAndExpand" Placeholder="Enter Amount" PlaceholderColor="Red" TextColor="#574515"/>
+            <Label Text="  Number Of Years" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="No_Of_Years" VerticalOptions="CenterAndExpand" Placeholder="Enter Duration" PlaceholderColor="Red" TextColor="#574515"/>
+            <Label Text="  Rate Of interest" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="Rate_Of_Interest" VerticalOptions="CenterAndExpand" Placeholder="Enter Rate of Interest" PlaceholderColor="Red" TextColor="#574515"/>
+            <Button Text="CALCULATE" Clicked="addCalculate" VerticalOptions="CenterAndExpand" BackgroundColor="Green" BorderColor="Black" BorderWidth="3" CornerRadius="20"/>
+            <Button Text="CANCEL" VerticalOptions="CenterAndExpand" BackgroundColor="Red" BorderWidth="3" BorderColor="Black" Clicked="btnCancel" CornerRadius="20"/>
+            <Label Text="  Interest Amount" HorizontalOptions="CenterAndExpand"/>
+            <Entry x:Name="Interest_Amount"  VerticalOptions="CenterAndExpand" TextColor="#574515"/>
+            <Label Text="  Total Amount" HorizontalOptions="CenterAndExpand"/>
+            <Entry x:Name="Total_Amount" VerticalOptions="CenterAndExpand" TextColor="#574515"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
